@@ -234,6 +234,7 @@ PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
     CustomPixelLauncherOverlay \
     DocumentsUIOverlay \
+    NavigationBarMode2ButtonOverlay \
     NavigationBarNoHintOverlay \
     NetworkStackOverlay
 
